@@ -59,8 +59,9 @@ h1 {
 }
 
 #msg {
-    color: red;
+    color: green;
     font-size: 8vmin;
+    font-weight: 1000;
 }
 
 .msg-container {
